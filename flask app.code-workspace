@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\venv\\__pycache__"
+		},
+		{
+			"path": "..\\venv\\Lib\\site-packages"
+		},
+		{
+			"path": "..\\venv\\Scripts"
+		}
+	],
+	"settings": {}
+}
